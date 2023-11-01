@@ -1,0 +1,25 @@
+{
+  "Settings": "تنظیمات",
+  "English": "آنګلیسی",
+  "Pashto": "پښتو",
+  "ToDo App": "تقسیم اوقات",
+  "My Tasks": "زما کارونه",
+  "There is no tasks here": "دلته هیڅ ټاسک نسته",
+  "Add your task": "خپل ټاسک اضافه کړی",
+  "please add your title": "مهربانی وکړی عنوان ولیکی",
+  "Title": "عنوان",
+  "Add your title": "عنوان داخل کړی",
+  "please add your time": "مهربانی وکړی خپل مشخص وخت داخل کړی",
+  "Time": "وخت",
+  "Add your time": "وخت داخل کړی",
+  "please add your date": "مهربانی وکړی نیټه داخل کړی",
+  "Date": "نیټه",
+  "Add your date": "خپل نیټه داخل کړی",
+  "please add your description": "مهربانی وکړی توضیحات داخل کړی",
+  "Description": "توضیحات",
+  "Add your description": "خپل توضیحات داخل کړی",
+  "Add task": "ټاسک اضافه کول",
+  "Update task": "د ټاسک تغیرول",
+  "Update your task": "ټاسک تغیر کړی"
+
+}
